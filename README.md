@@ -120,10 +120,8 @@ AI_Digital_Twin/
 - **Python 3.12+**
 - Git
 
-### 2. Clone Repository & Setup Virtual Environment
+### 2. Setup Virtual Environment
 ```bash
-git clone https://github.com/your-username/AI_Digital_Twin.git
-cd AI_Digital_Twin
 
 python -m venv venv
 # On Windows:
